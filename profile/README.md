@@ -4,6 +4,8 @@
 ## Bgolearn
 ### A Bayesian global optimization package for material design ｜ Adaptive Learning | Active Learning
 
+**The publication utilizing Bgolearn will be promoted by the Bgolearn Team.**
+
 ### Repos
 + [Bgolearn](https://github.com/Bin-Cao/Bgolearn) : The Source Code of Bgolearn
 + [BgoFace](https://github.com/Bgolearn/BgoFace) : User interface of the Bgolearn platform
