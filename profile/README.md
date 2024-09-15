@@ -8,6 +8,7 @@
 
 ### Repos
 + [Bgolearn](https://github.com/Bin-Cao/Bgolearn) : The Source Code of Bgolearn
++ [MultiBgolearn](https://github.com/Bin-Cao/MultiBgolearn): Multi-Objective Bayesian Global Optimization for Materials Design
 + [BgoFace](https://github.com/Bgolearn/BgoFace) : User interface of the Bgolearn platform
 + [MLMD](https://github.com/Jiaxuan-Ma/MLMD) : A programming-free AI platform to predict and design materials
 + [Document](https://bgolearn.netlify.app/) : The Document of Bgolearn
