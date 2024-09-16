@@ -14,7 +14,7 @@
 + [Document](https://bgolearn.netlify.app/) : The Document of Bgolearn
 
 ### Cite
-+ https://doi.org/10.1016/j.matdes.2024.112921
++ Cao, B., Su, T., Yu, S., Li, T., Zhang, T., Zhang, J., ... & Zhang, T. Y. (2024). Active learning accelerates the discovery of high strength and high ductility lead-free solder alloys. Materials & Design, 241, 112921. https://doi.org/10.1016/j.matdes.2024.112921
 
 
 ### Peer works
