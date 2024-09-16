@@ -18,4 +18,4 @@
 
 
 ### Peer works
-+ Wang C, Zhao W, Bai Q, et al. [Active learning-based research of foaming agent for EPB shield soil conditioning in gravel stratum[J]](https://www.sciencedirect.com/science/article/pii/S0263224124013940). Measurement, 2024: 115509. DOI: 10.1016/j.measurement.2024.115509
+[List](https://scholar.google.com/scholar?cites=10043314866376349479&as_sdt=2005&sciodt=0,5&hl=zh-CN)
