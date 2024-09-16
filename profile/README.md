@@ -17,5 +17,4 @@
 + Cao, B., Su, T., Yu, S., Li, T., Zhang, T., Zhang, J., ... & Zhang, T. Y. (2024). Active learning accelerates the discovery of high strength and high ductility lead-free solder alloys. Materials & Design, 241, 112921. https://doi.org/10.1016/j.matdes.2024.112921
 
 
-### Peer works
-[List](https://scholar.google.com/scholar?cites=10043314866376349479&as_sdt=2005&sciodt=0,5&hl=zh-CN)
+### [Peer works](https://scholar.google.com/scholar?cites=10043314866376349479&as_sdt=2005&sciodt=0,5&hl=zh-CN)
