@@ -4,7 +4,7 @@
 ## Bgolearn [HomePage](http://bgolearn.caobin.asia/) 
 ### A Bayesian global optimization package for material design ｜ Adaptive Learning | Active Learning
 
-**The publication utilizing Bgolearn will be promoted by the Bgolearn Team.**
+### Code tutorial : [BiliBili](https://www.bilibili.com/video/BV1LTtLeaEZp/?spm_id_from=333.337.search-card.all.click)
 
 ### Repos
 + [Bgolearn](https://github.com/Bin-Cao/Bgolearn) : The Source Code of Bgolearn
