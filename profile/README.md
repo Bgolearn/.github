@@ -4,7 +4,7 @@
 ## Bgolearn [HomePage](http://bgolearn.caobin.asia/) 
 
 [View package usage statistics / download counts](https://www.pepy.tech/projects/Bgolearn)
- 
+ ![PyPI Downloads](https://static.pepy.tech/badge/bgolearn)
 ### A Bayesian global optimization package for material design ｜ Adaptive Learning | Active Learning
 
 ### Code tutorial : [BiliBili](https://www.bilibili.com/video/BV1LTtLeaEZp/?spm_id_from=333.337.search-card.all.click)
