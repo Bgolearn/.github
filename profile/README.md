@@ -1,7 +1,6 @@
 
 ![Screenshot 2024-07-29 at 14 10 53](https://github.com/user-attachments/assets/2d732df4-34ce-4603-92e9-029a07b3d2df)
 
-**We have encountered instances where papers have used the Bgolearn package but failed to cite it. We will continue to monitor such cases and will contact the respective journals to request proper citation.**
 
 
 ## Bgolearn [HomePage](http://bgolearn.caobin.asia/) 
