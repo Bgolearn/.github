@@ -1,14 +1,11 @@
 
 # Bgolearn 🔍 | [Homepage](http://bgolearn.caobin.asia/)
 
-![PyPI Downloads](https://static.pepy.tech/badge/bgolearn)
+
 [📊 View usage/download statistics](https://www.pepy.tech/projects/Bgolearn)
 
 > **Bgolearn** is a flexible and extensible Python package for **Bayesian Global Optimization (BGO)**. It is specifically designed to accelerate materials discovery via **active learning** and **adaptive sampling strategies**.
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/2d732df4-34ce-4603-92e9-029a07b3d2df" alt="Screenshot" width="80%">
-</p>
 
 ---
 
