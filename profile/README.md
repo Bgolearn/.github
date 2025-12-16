@@ -31,22 +31,22 @@
 
 ## 🔍 Key Features
 
-* 🧠 **Bayesian Optimization Core**: Supports single- and multi-objective optimization using GPR-based surrogate models.
-* 🧪 **Materials Design-Oriented**: Tailored for high-throughput experiments and structure–property optimization workflows.
-* 🔁 **Active Learning Framework**: Combines uncertainty sampling and exploration–exploitation balance strategies.
-* 🎯 **Customizable Acquisition Functions**: Includes EI, PI, UCB, and supports user-defined strategies.
-* 🌐 **User Interface + Web Deployment**: Works with [BgoFace](https://github.com/Bgolearn/BgoFace) for intuitive web-based control.
+* **Bayesian Optimization Core**: Supports single- and multi-objective optimization using GPR-based surrogate models.
+* **Materials Design-Oriented**: Tailored for high-throughput experiments and structure–property optimization workflows.
+* **Active Learning Framework**: Combines uncertainty sampling and exploration–exploitation balance strategies.
+* **Customizable Acquisition Functions**: Includes EI, PI, UCB, and supports user-defined strategies.
+* **User Interface + Web Deployment**: Works with [BgoFace](https://github.com/Bgolearn/BgoFace) for intuitive web-based control.
 
 ---
 
-## 🎬 Tutorial & Demos
+## Tutorial & Demos
 
-* 📺 **Code Walkthrough**: [Watch on BiliBili](https://www.bilibili.com/video/BV1LTtLeaEZp/?spm_id_from=333.337.search-card.all.click)
-* 🧪 **Sample Code + Datasets**: [CodeDemo Repository](https://github.com/Bgolearn/CodeDemo)
+* **Code Walkthrough**: [Watch on BiliBili](https://www.bilibili.com/video/BV1LTtLeaEZp/?spm_id_from=333.337.search-card.all.click)
+* **Sample Code + Datasets**: [CodeDemo Repository](https://github.com/Bgolearn/CodeDemo)
 
 ---
 
-## 📦 Repositories
+## Repositories
 
 | Name                                                         | Description                                                    |
 | ------------------------------------------------------------ | -------------------------------------------------------------- |
@@ -60,7 +60,7 @@
 
 ---
 
-## 📄 Citation
+## Citation
 
 If you use **Bgolearn** in your research, please cite:
 
@@ -71,13 +71,13 @@ If you use **Bgolearn** in your research, please cite:
 
 ---
 
-## 📚 Related Research
+## Related Research
 
 Explore more works using **Bgolearn** on [Google Scholar](https://scholar.google.com/scholar?hl=zh-CN&as_sdt=0%2C5&q=bgolearn&btnG=)
 
 ---
 
-## ⭐ Contributing & Acknowledgment
+## Contributing & Acknowledgment
 
 We welcome contributions and suggestions! Please ⭐️ the repo [**Bgolearn**](https://github.com/Bin-Cao/Bgolearn) if you find it helpful.
 
