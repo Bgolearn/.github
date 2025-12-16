@@ -56,6 +56,7 @@
 | 🔗 [CodeDemo](https://github.com/Bgolearn/CodeDemo)          | Example scripts and synthetic datasets                         |
 | 🔗 [Document](https://bgolearn.netlify.app/)                 | Official documentation site                                    |
 | 🔗 [MLMD](https://github.com/Jiaxuan-Ma/MLMD)                | A programming-free platform for ML-based materials design      |
+| 🔗 [VSGenerator](https://github.com/Bgolearn/VSGenerator)    | Dynamic Virtual Space Generation Neural Network                |
 
 ---
 
