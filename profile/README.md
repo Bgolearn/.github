@@ -19,7 +19,7 @@
 
 ---
 
-# Bgolearn [**Paper**](https://arxiv.org/abs/2601.06820) | [Homepage](http://bgolearn.caobin.asia/) | [**Report**](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d)
+# Bgolearn | [**Paper**](https://arxiv.org/abs/2601.06820) | [Homepage](http://bgolearn.caobin.asia/) | [**Report**](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d)
 
 
 [📊 View usage/download statistics](https://www.pepy.tech/projects/Bgolearn)
