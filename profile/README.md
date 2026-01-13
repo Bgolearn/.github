@@ -19,7 +19,7 @@
 
 ---
 
-# Bgolearn 🔍 | [Homepage](http://bgolearn.caobin.asia/) | [**Report**](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d)
+# Bgolearn [**Paper**](https://arxiv.org/abs/2601.06820) | [Homepage](http://bgolearn.caobin.asia/) | [**Report**](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d)
 
 
 [📊 View usage/download statistics](https://www.pepy.tech/projects/Bgolearn)
@@ -27,9 +27,15 @@
 > **Bgolearn** is a flexible and extensible Python package for **Bayesian Global Optimization (BGO)**. It is specifically designed to accelerate materials discovery via **active learning** and **adaptive sampling strategies**.
 
 
+The Bgolearn project has received support from the *Shanghai Artificial Intelligence Open Source Award Project Support Plan (2025)* (**[上海市人工智能开源奖励项目支持计划](https://www.sheitc.sh.gov.cn/cyfz/20250728/e571042d40384fcf859a347eb99e10df.html), 2025,[Project](https://github.com/Bin-Cao/Bgolearn/blob/main/figures/funding.png)**).
+
+
+### [Bgolearn: a Unified Bayesian Optimization Framework for Accelerating Materials Discovery](https://arxiv.org/abs/2406.15469)
+<img width="5257" height="3400" alt="workflow" src="https://github.com/user-attachments/assets/a0850259-4f08-4bb6-88d7-468d4d8332e6" />
+
 ---
 
-## 🔍 Key Features
+## Key Features
 
 * **Bayesian Optimization Core**: Supports single- and multi-objective optimization using GPR-based surrogate models.
 * **Materials Design-Oriented**: Tailored for high-throughput experiments and structure–property optimization workflows.
