@@ -64,11 +64,19 @@
 
 If you use **Bgolearn** in your research, please cite:
 
-> Cao, B., Su, T., Yu, S., Li, T., Zhang, T., Zhang, J., ... & Zhang, T. Y. (2024).
-> *Active learning accelerates the discovery of high strength and high ductility lead-free solder alloys*.
-> **Materials & Design, 241**, 112921.
-> [https://doi.org/10.1016/j.matdes.2024.112921](https://doi.org/10.1016/j.matdes.2024.112921)
-
+```
+@article{cao2026bgolearn,
+  title        = {Bgolearn: a Unified Bayesian Optimization Framework for Accelerating Materials Discovery},
+  author       = {Cao, Bin and Xiong, Jie and Ma, Jiaxuan and Tian, Yuan and Hu, Yirui and He, Mengwei and Zhang, Longhan and Wang, Jiayu and Hui, Jian and Liu, Li and Xue, Dezhen and Lookman, Turab and Zhang, Tong-Yi},
+  journal      = {arXiv preprint arXiv:2601.06820},
+  year         = {2026},
+  eprint       = {2601.06820},
+  archivePrefix= {arXiv},
+  primaryClass = {cond-mat.mtrl-sci},
+  doi          = {https://doi.org/10.48550/arXiv.2601.06820},
+  note         = {38 pages, 5 figures}
+}
+```
 ---
 
 ## Related Research
