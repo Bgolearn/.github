@@ -1,6 +1,45 @@
 
+<h1 align="center">Bgolearn</h1>
 
-## *Bgolearn* | [**Paper**](https://arxiv.org/abs/2601.06820) | [Homepage](http://bgolearn.caobin.asia/) | [**Report**](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d) | [**Handbook**](https://bgolearn.netlify.app/)｜[**中文手册**](https://bgolearn-chi.netlify.app/) 
+<p align="center">
+  An open-source platform for Bayesian optimization, active learning, and autonomous scientific discovery in materials science and engineering.
+</p>
+
+<p align="center">
+  <a href="https://github.com/Bin-Cao/Bgolearn/stargazers">
+    <img src="https://img.shields.io/github/stars/Bin-Cao/Bgolearn?style=social" alt="GitHub Stars">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/Bgolearn/network/members">
+    <img src="https://img.shields.io/github/forks/Bin-Cao/Bgolearn?style=social" alt="GitHub Forks">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/Bgolearn/issues">
+    <img src="https://img.shields.io/github/issues/Bin-Cao/Bgolearn" alt="Open Issues">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/Bgolearn/issues?q=is%3Aissue+is%3Aclosed">
+    <img src="https://img.shields.io/github/issues-closed/Bin-Cao/Bgolearn" alt="Closed Issues">
+  </a>
+
+  <a href="https://github.com/Bin-Cao/Bgolearn/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Bin-Cao/Bgolearn" alt="License">
+  </a>
+
+  <a href="https://pypi.org/project/Bgolearn/">
+    <img src="https://img.shields.io/pypi/v/Bgolearn" alt="PyPI">
+  </a>
+
+  <a href="https://arxiv.org/abs/2601.06820">
+    <img src="https://img.shields.io/badge/arXiv-2601.06820-b31b1b.svg" alt="arXiv">
+  </a>
+</p>
+
+
+
+
+
+## [**Paper**](https://arxiv.org/abs/2601.06820) | [Homepage](http://bgolearn.caobin.asia/) | [**Report**](https://cmc2025.scimeeting.cn/cn/web/speaker-detail/27167?user_id=ZXvycJpgjG2WSbabyEmiSA_d_d) | [**Handbook**](https://bgolearn.netlify.app/)｜[**中文手册**](https://bgolearn-chi.netlify.app/) 
 
 
 
