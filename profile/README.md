@@ -10,9 +10,7 @@
     <img src="https://img.shields.io/github/stars/Bin-Cao/Bgolearn?style=social" alt="GitHub Stars">
   </a>
 
-  <a href="https://github.com/Bin-Cao/Bgolearn/network/members">
-    <img src="https://img.shields.io/github/forks/Bin-Cao/Bgolearn?style=social" alt="GitHub Forks">
-  </a>
+
 
   <a href="https://github.com/Bin-Cao/Bgolearn/issues">
     <img src="https://img.shields.io/github/issues/Bin-Cao/Bgolearn" alt="Open Issues">
